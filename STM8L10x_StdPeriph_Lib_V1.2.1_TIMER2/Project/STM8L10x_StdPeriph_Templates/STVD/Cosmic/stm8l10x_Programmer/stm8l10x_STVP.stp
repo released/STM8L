@@ -1,0 +1,16 @@
+[Last Settings]
+Hardware=ST-LINK
+PROTOCOL=SWIM
+Port=USB
+DEVICE=STM8L101x3
+Verify after programming=1
+Blank check before programming (when available)=1
+Erase device memory before programming (when available)=0
+Unlock protection before a programming cycle=0
+[PROGRAM MEMORY]
+Count=0
+ProgramEvenIfBlank=0
+[OPTION BYTE]
+Count=1
+File0=D:\SourceCode\_Avery_STM8L\STM8L10x_StdPeriph_Lib_V1.2.1\Project\STM8L10x_StdPeriph_Templates\STVD\Cosmic\stm8l10x_Programmer\stm8l10x_STVP_OPTION BYTE.hex
+ProgramEvenIfBlank=0
